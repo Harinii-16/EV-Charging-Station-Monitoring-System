@@ -39,3 +39,6 @@ The EV Charging Station Monitoring System is an IoT-based project designed to mo
 - Mobile application
 - Remote monitoring
 - Fault detection
+## Prototype Image
+
+![EV Charging Station Prototype](ev-charging-prototype.png)
