@@ -63,6 +63,13 @@ Power = Voltage × Current
 
 
 javac EVChargingMonitoring.java
+4. Run the program:
+
+java EVChargingMonitoring
+
+5. Enter the voltage and current values when prompted.
+
+6. The system calculates and displays the charging power.
 ## Prototype Image
 
 ![EV Charging Station Prototype](ev-charging-prototype.png)
