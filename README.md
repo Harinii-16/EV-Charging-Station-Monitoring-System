@@ -60,7 +60,8 @@ Power = Voltage × Current
 2. Open the project folder in VS Code or Command Prompt.
 3. Compile the Java program:
 
-```bash
+
+
 javac EVChargingMonitoring.java
 ## Prototype Image
 
