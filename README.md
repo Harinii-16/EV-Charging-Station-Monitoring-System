@@ -39,6 +39,7 @@ The EV Charging Station Monitoring System is an IoT-based project designed to mo
 - Mobile application
 - Remote monitoring
 - Fault detection
+
  ## Java Working Demo
 
 The project also includes a Java-based monitoring program to demonstrate the calculation of charging power.
@@ -53,6 +54,14 @@ The project also includes a Java-based monitoring program to demonstrate the cal
 Power is calculated using:
 
 Power = Voltage × Current
+## How to Run
+
+1. Install Java JDK on your system.
+2. Open the project folder in VS Code or Command Prompt.
+3. Compile the Java program:
+
+```bash
+javac EVChargingMonitoring.java
 ## Prototype Image
 
 ![EV Charging Station Prototype](ev-charging-prototype.png)
